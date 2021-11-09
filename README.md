@@ -16,6 +16,10 @@ MarsRun **is a leading NFT game on Binance Smart Chain focused on offering a pre
 
 The gameplay is a web game based on** **Mario Run inspired game where anyone can earn coins through skilled gameplay and contributions to the ecosystem. The aim of the game is simple Run as fast as you can through all of the 10 levels whilst collecting coins along the way. Successful players who complete all levels will be rewarded with the collected coins. Simple.
 
+Entry: 100 $RUN
+
+Price: Up to 10.000 $RUN
+
 ​💲 **Token**
 
 $Run is the native token used in the game. It employs 3 simple yet effective functions:
@@ -28,6 +32,8 @@ $Run is the native token used in the game. It employs 3 simple yet effective fun
 
 
 
-## Moving on
+## **Key Project Information**
 
-All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
+**Token** : MarsRun ($RUN)
+
+**Run:** coming soon
