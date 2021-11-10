@@ -6,7 +6,7 @@ description: The Next-gen Platform Game, NFTS, Marketplace and Own Token on BSC 
 
 ![](<.gitbook/assets/space-g3a7b82fa1\_1920 (2).jpg>)
 
-MarsRun **is a leading NFT game on Binance Smart Chain focused on offering a premier gaming experience. **Users are incentivized to game on MaxRun through a platform game to earn the native currency, $RUN. Additionally, martians can open mystery boxes to get excusive NFT with exclusive features in-game. Built by Gamers martians, for Gamer martians, we have a dedicated team with experience in the sector who are committed to the Gaming community and growing the MarsRun Galaxy.
+MarsRun **is a leading NFT game on Binance Smart Chain focused on offering a premier gaming experience. **Users are incentivized to game on MarsRun through a platform game to earn the native currency, $RUN. Additionally, martians can open mystery boxes to get excusive NFT with exclusive features in-game. Built by Gamers martians, for Gamer martians, we have a dedicated team with experience in the sector who are committed to the Gaming community and growing the MarsRun Galaxy.
 
 ## Features
 
